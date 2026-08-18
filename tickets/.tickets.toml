@@ -1,0 +1,13 @@
+[git]
+auto_commit = false
+
+[tui]
+kanban_columns = [
+    "todo",
+    "in-progress",
+    "done",
+]
+
+[new]
+default_status = "todo"
+default_type = "task"
